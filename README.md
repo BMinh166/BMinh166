@@ -1,118 +1,76 @@
 <h1 align="center">Hi 👋, I'm Võ Khôi Bình Minh</h1>
 
 <p align="center">
-Frontend Developer Intern
+Frontend Developer Intern • Software Engineering Student @ UIT - VNUHCM
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-- 🎓 Software Engineering student at University of Information Technology (UIT - VNUHCM)
-- 💻 Passionate about Frontend Development and creating responsive web applications
-- 🌱 Currently improving my ReactJS, JavaScript and modern web development skills
-- 🎯 Looking for a Frontend ReactJS Internship
-- 📍 Ho Chi Minh City, Vietnam
+🎓 Software Engineering student at **UIT - VNUHCM**
+
+💻 Passionate about building responsive web applications with **ReactJS**
+
+🚀 Currently developing **Vocabulary Learning Roguelike Game**
+
+🎯 Looking for a **Frontend ReactJS Internship**
 
 ---
 
-## 🚀 Tech Stack
+## 🌱 Currently Learning
 
-### Frontend
+- ReactJS Ecosystem
+- TypeScript
+- Node.js
+- System Design
 
-- ReactJS
-- JavaScript
-- HTML5
-- CSS3
+---
 
-### Backend
+## 💻 Tech Stack
 
-- ASP.NET Core
-- REST API
+**Frontend**
 
-### Programming Languages
+ReactJS • JavaScript • HTML5 • CSS3
 
-- JavaScript
-- C#
-- Java
-- GDScript
+**Backend**
 
-### Database
+ASP.NET Core • REST API
 
-- MySQL
-- Firebase
+**Languages**
 
-### Tools
+JavaScript • C# • Java • GDScript
 
-- Git
-- Swagger
-- VS Code
-- Visual Studio
-- Android Studio
+**Database**
+
+MySQL • Firebase
+
+**Tools**
+
+Git • Swagger • VS Code • Visual Studio • Android Studio
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌍 UiTour – Tourism Promotion and Booking Website
+🎮 **Vocabulary Learning Roguelike Game**
 
-Frontend Developer
+> 2D educational roguelike game with 470+ vocabulary words.
 
-- Developed responsive ReactJS interfaces from Figma designs
-- Worked closely with backend developers using Git
-- Integrated REST APIs
+🌍 **UiTour**
 
-**Tech**
+> Tourism promotion & booking website built with ReactJS.
 
-ReactJS • JavaScript • ASP.NET Core • MySQL
+🎬 **Movie Ticket Booking App**
 
----
-
-### 🎮 Vocabulary Learning Roguelike Game
-
-Personal Project
-
-A 2D vocabulary-learning game built with Godot Engine featuring
-
-- 470+ vocabulary words
-- 20 unique items
-- 3 difficulty levels
-- Item system
-- Progression system
-- Scoring mechanics
-
-**Tech**
-
-Godot Engine • GDScript • JSON
+> Android application developed using Java & Firebase.
 
 ---
 
-### 🎬 Movie Ticket Booking Mobile App
+## 📫 Connect with Me
 
-Mobile Developer
+📧 **Email:** vkbminh166@gmail.com
 
-- Built Android application interfaces
-- Firebase integration
+💼 LinkedIn: www.linkedin.com/in/khôi-bình-minh-võ-92176b415
 
-**Tech**
-
-Java • Android Studio • Firebase
-
----
-
-## 📚 Currently Learning
-
-- TypeScript
-- Node.js
-- System Design
-- Clean Architecture
-
----
-
-## 📫 Contact
-
-📧 Email: vkbminh166@gmail.com
-
-💼 LinkedIn: (your linkedin)
-
-🌐 Portfolio: (coming soon)
+💻 Portfolio *(Coming Soon)*
