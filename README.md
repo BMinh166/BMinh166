@@ -1,76 +1,90 @@
-<h1 align="center">Hi 👋, I'm Võ Khôi Bình Minh</h1>
+# Hi 👋, I'm Võ Khôi Bình Minh
 
-<p align="center">
-Frontend Developer Intern • Software Engineering Student @ UIT - VNUHCM
-</p>
-
----
+**Backend Developer Intern @ LDC | Software Engineering Student @ UIT – VNUHCM**
 
 ## 💫 About Me
 
-🎓 Software Engineering student at **UIT - VNUHCM**
+🎓 I'm a Software Engineering student at **University of Information Technology (UIT) – VNUHCM**.
 
-💻 Passionate about building responsive web applications with **ReactJS**
+💼 Currently working as a **Backend Developer Intern at LDC**, gaining practical experience in software development.
 
-🚀 Currently developing **Vocabulary Learning Roguelike Game**
+💻 Interested in **backend development, RESTful APIs, database systems, and software architecture**, with a background in frontend and full-stack development.
 
-🎯 Looking for a **Frontend ReactJS Internship**
-
----
+🚀 I enjoy building applications, exploring new technologies, and solving problems through code.
 
 ## 🌱 Currently Learning
 
-- ReactJS Ecosystem
-- TypeScript
-- Node.js
-- System Design
-
----
+- Domain-Driven Design (DDD) and Clean Architecture
+- Unit Testing, Integration Testing, and Test-Driven Development
+- Microservices and Distributed Systems
+- Database Design, Transactions, and Performance
+- Software Design Principles and Best Practices
 
 ## 💻 Tech Stack
 
+**Backend & APIs**
+
+C# • ASP.NET Core • Node.js • Express.js • RESTful APIs
+
 **Frontend**
 
-ReactJS • JavaScript • HTML5 • CSS3
+ReactJS • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
-**Backend**
+**Programming Languages**
 
-ASP.NET Core • REST API
+C# • Java • JavaScript • TypeScript • GDScript
 
-**Languages**
+**Databases**
 
-JavaScript • C# • Java • GDScript
+PostgreSQL • MySQL • MongoDB • Firebase
 
-**Database**
+**Testing & Development Tools**
 
-MySQL • Firebase
+xUnit • Moq • Git • GitHub • Swagger/OpenAPI • Postman • VS Code • Visual Studio
 
-**Tools**
+**Other Technologies**
 
-Git • Swagger • VS Code • Visual Studio • Android Studio
-
----
+Godot Engine • Android Development
 
 ## 📌 Featured Projects
 
-🎮 **Vocabulary Learning Roguelike Game**
+### 🎓 [School Management](https://github.com/BMinh166/school-management-unit-testing)
 
-> 2D educational roguelike game with 470+ vocabulary words.
+A student management REST API built with **ASP.NET Core and PostgreSQL**, focusing on domain modeling and automated testing.
 
-🌍 **UiTour**
+- Domain-Driven Design (DDD)
+- Layered architecture
+- Student management and graduation eligibility rules
+- Unit testing with xUnit and Moq
+- PostgreSQL integration testing
 
-> Tourism promotion & booking website built with ReactJS.
+### 🍽️ [DineFlow](https://github.com/BMinh166/DineFlow)
 
-🎬 **Movie Ticket Booking App**
+A full-stack restaurant ordering and management system supporting customer ordering, kitchen operations, staff management, and payment workflows.
 
-> Android application developed using Java & Firebase.
+- React, TypeScript, Node.js, and Express
+- MongoDB and Mongoose
+- Role-based access and authentication
+- RESTful API development
+- Restaurant ordering and table-session workflows
 
----
+### 🎮 [Vocabulary Learning Roguelike Game](https://github.com/BMinh166/english-game-learning)
+
+An educational roguelike card game developed with **Godot Engine and GDScript**, combining English vocabulary learning with strategic gameplay.
+
+- Word relationship and scoring systems
+- Roguelike progression and item mechanics
+- Save/load and player progression
+- Independently designed and developed
 
 ## 📫 Connect with Me
 
-📧 **Email:** vkbminh166@gmail.com
+📧 **Email:** [vkbminh166@gmail.com](mailto:vkbminh166@gmail.com)
 
-💼 LinkedIn: www.linkedin.com/in/khôi-bình-minh-võ-92176b415
+💼 **LinkedIn:** [Võ Khôi Bình Minh](https://www.linkedin.com/in/kh%C3%B4i-b%C3%ACnh-minh-v%C3%B5-92176b415/)
 
-💻 Portfolio *(Coming Soon)*
+💻 **GitHub:** [BMinh166](https://github.com/BMinh166)
+
+---
+
+*Always learning, building, and improving.*
