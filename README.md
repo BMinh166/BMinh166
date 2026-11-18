@@ -48,16 +48,6 @@ Godot Engine • Android Development
 
 ## 📌 Featured Projects
 
-### 🎓 [School Management](https://github.com/BMinh166/school-management-unit-testing)
-
-A student management REST API built with **ASP.NET Core and PostgreSQL**, focusing on domain modeling and automated testing.
-
-- Domain-Driven Design (DDD)
-- Layered architecture
-- Student management and graduation eligibility rules
-- Unit testing with xUnit and Moq
-- PostgreSQL integration testing
-
 ### 🍽️ [DineFlow](https://github.com/BMinh166/DineFlow)
 
 A full-stack restaurant ordering and management system supporting customer ordering, kitchen operations, staff management, and payment workflows.
